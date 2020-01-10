@@ -1,0 +1,11 @@
+1) List or Core Mechanics and combinations
+	Jumping, "walking", surface-swimming.
+
+2) Key Events (enemy and environmental interactions)
+	Moving logs/objects on a pivot, collapsing ridges, activating latent magic explosions, objects are surprise enemies.
+
+3) Objectives/Challenges/Rewards
+	Gather every ingredient in the area, avoid damage, solve environmental puzzles.
+
+4) Type of Progression through the level (maze, linear, non-linear)
+	Exploration/non-linear, return to base when ingredients are gathered.
