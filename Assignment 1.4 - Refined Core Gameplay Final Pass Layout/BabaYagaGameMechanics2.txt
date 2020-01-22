@@ -1,0 +1,43 @@
+1) Update Core Mechanics and combinations
+	Core Mechanics
+		Gather ingredients
+		Jump, walk, walk off edges
+		Jumping on/pushing against environment pieces may cause a change
+		Some objects are, like the player, alive
+		
+2) Update Key Events (enemy and environmental interactions)
+	Key Events
+		Leading an enemy to knock one ingredient off shelf
+		Pushing a jar off shelf to reveal ingredient inside
+		Landing on bed/rug to get highest ingredients without dying
+		Rocking a chair with jumps to get ingredient under rocker-rail
+		
+3) Show Gameplay blocks with flow
+	Gameplay blocks
+		Ingredients that can be accessed easily will cause death if not approached properly
+		Enemies are essentially environment which can be "activated", for good or bad
+		Jumps must be carefully planned
+			A jump from equal levels is safe
+			A fall from a higher level to a lower level is safe
+			A jump from a higher level to a lower level causes damage
+			A fall from the highest level to the ground floor causes damage
+			A jump from the highest level to the ground floor causes severe damage
+			
+3) Emotions for Gameplay Blocks
+	Emotions
+		Hesitation
+			Enemies are disguised as common objects
+			Jumps must be planned carefully in some situations
+		Assumption/Ah-Ha Moments
+			Ingredients will often seem obvious to retrieve, but has a catch
+			Figuring out what needs to change in the obvious solution
+		Dissociation
+			The player-character scale is about the size of a mouse
+			This means tables are terrifying to look over in 1st person
+			
+4) Distribution of Ingredients
+	Ingredients in this case may be confusing, since "ingredients" are a thing in this game
+	These collectables are distributed as 2 parts obvious, 1 part hidden, 1 part "puzzle"
+	The environment contains objects that are out of scale
+		In relation to the player
+		In relation to itself (a giant ladle, for example)
