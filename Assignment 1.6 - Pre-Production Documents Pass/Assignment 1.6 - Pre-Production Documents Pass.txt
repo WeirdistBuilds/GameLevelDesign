@@ -1,0 +1,12 @@
+Pre-Production Assignment:
+ 
+Mechanics and scripting needs ( Define mechanics, research how to accomplish, label out scripting needs)
+ 
+Final Design Document ( finished and ready to read with map)
+Modeling list ( Give a list of all the models needed to complete projects, detail out how long it will take to create each item what needs will be for each item as well. Assign hours needed to complete then provide a full tally of hours)
+Texture limitations ( research out sizes for up close mid ground and far distance. Ensure that your model list has these assigned to each model according to a close make round and distant. Provide a list of maps required and how you were going to go about doing this. Assigned hours to each of the maps you have to create.)
+Scale ( Define the overall skill of your project including what units you will use and why are you will use those units research the best possible scale size for your project)
+Production pipeline (Now that you understand the amount of time it will take to build each object label out step by step The process you will use for creating the assets that are needed)
+Unknowns (taking to consideration all the unknowns in your production pipeline that you may encounter take the time to write out some of those things on paper do some research ahead of time to know how you’re going to implement these unknowns.)
+
+Due Friday (1/31/20) by 8:59am

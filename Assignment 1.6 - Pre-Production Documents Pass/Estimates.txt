@@ -1,0 +1,32 @@
+*possibly replaced by included Unity asset
+
+Project Setup	Time to Setup			Approval/Adjustments
+				1 hour					1 hour
+
+				
+Scripts			Time to Write			Time to Prototype	Time to Test		Approval/Adjustments
+
+Player Movement	2 hours					45 minutes			5 minutes			1 hour
+*1st Person Cam	1 hour					1 hour				5 minutes			1 hour
+Player Jump		30 minutes				45 minutes			5 minutes			2 hours
+Anim Trigger	35 minutes				20 minutes			5 minutes			1 hour
+Object Collect	30 minutes				40 minutes			5 minutes			1 hour
+See-Saw			30 minutes				2 hours				10 minutes			2 hours
+Collapse		30 minutes				90 minutes			10 minutes			2 hours
+
+
+
+Models			Time to Model/UV		Time to Texture		Time to Implement	Approval/Adjustments
+
+CabinInterior	6 hours					2 hours				30 minutes			2 hours
+Bed				3 hours					2 hours				30 minutes			1 hour
+Sawhorse		40 minutes				30 minutes			30 minutes			1 hour
+Crate1			90 minutes				35 minutes			30 minutes			1 hour
+Crate2			45 minutes				20 minutes			30 minutes			1 hour
+Crate3			30 minutes				20 minutes			30 minutes			1 hour
+Stove			3 hours					40 minutes			30 minutes			1 hour
+Sink			3 hours					45 minutes			30 minutes			1 hour
+ShelfCrate1		1 hour					20 minutes			30 minutes			1 hour
+ShelfCrate2		20 minutes				15 minutes			30 minutes			1 hour
+ShelfCrate3		20 minutes				15 minutes			30 minutes			1 hour
+Broom			90 minutes				15 minutes			30 minutes			1 hour
