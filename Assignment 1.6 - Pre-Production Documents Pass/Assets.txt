@@ -1,0 +1,88 @@
+https://docs.google.com/spreadsheets/d/1pgvcGNMAuUD0HhQLfzvA3WZbp9WbK2m7L7JNynLDqTs/edit?usp=sharing
+
+SCRIPTING LIST - Baba Yaga
+Player Controls
+	Movement
+	CameraControl
+	Jump
+Events
+	GameReset
+	PlayerDeath
+	CollectItem
+	AnimTrigger
+	Win	
+
+MODELING LIST - Fetid Izba Level
+Collectables
+	Toadstool1
+	Toadstool2
+	Toadstool3
+	Toadstool4
+	Toadstool5
+	Zhar Ptica Amulet
+Large Models
+	SwampChunk
+	IzbaInterior
+	RussianChimney
+	BabaYagaHut
+		+Rig
+		+Animation
+Medium Models
+	Table1
+	Table2
+	EndTable
+	Bench
+	LoomWheel
+	BristleBroom
+	Cot
+		(note: Blanket - Bird Pattern, Blue and Red)
+	Chair
+	ChairBroken
+	ChairMoreBroken
+	Stool
+	Rug
+	Samovar
+	TeaSet
+		(note: Flower Pattern)
+	MushroomBasketBackpack1
+	MushroomBasketBackpack2
+Small Models
+	HerbParsley
+	HerbDill
+	HerbGarlic
+	HangingString
+	Pot1
+	Pot2
+	Pan1
+	Pan2
+	Pan3
+	Bowl1
+	Bowl2
+	Bowl3
+	Plate1
+	Plate2
+	Plate3
+	Vase1
+	Vase2
+	Dish Shelf
+	Bread Dish
+	Cutting Board
+	Shawl
+	Basket1
+	Basket2
+	Rotten Apple
+	Towel
+		(note: Animal Design, Blue and Red)
+	Oil Lamp Base
+	Oil Lamp Shell
+	GrassTuft1
+	GrassTuft2
+	GrassTuft3
+	GrassTuft4
+	FloorMushroom
+	FloorMushroom2
+	WallMushroom1
+	WallMushroom2
+	
+	
+TEXTURE LIMITATIONSL
