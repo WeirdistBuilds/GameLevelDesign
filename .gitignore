@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Assignment 1.7 - Whitebox/BabaYagaWhitebox/BabaYagaWhitebox/[Ll]ibrary/
+Assignment 1.7 - Whitebox/BabaYagaWhitebox/BabaYagaWhitebox/[Tt]emp/
+Assignment 1.7 - Whitebox/BabaYagaWhitebox/BabaYagaWhitebox/[Oo]bj/
+Assignment 1.7 - Whitebox/BabaYagaWhitebox/BabaYagaWhitebox/[Bb]uild/
+Assignment 1.7 - Whitebox/BabaYagaWhitebox/BabaYagaWhitebox/[Bb]uilds/
+Assignment 1.7 - Whitebox/BabaYagaWhitebox/BabaYagaWhitebox/[Ll]ogs/
+Assignment 1.7 - Whitebox/BabaYagaWhitebox/BabaYagaWhitebox/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+Assignment 1.7 - Whitebox/BabaYagaWhitebox/BabaYagaWhitebox/Assets/SampleScenes/
+
+Assignment 1.7 - Whitebox/BabaYagaWhitebox/BabaYagaWhitebox/Assets/Standard Assets/Characters/ThirdPersonCharacter/
