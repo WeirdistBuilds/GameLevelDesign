@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5562471072085547250}
   - component: {fileID: 3488841959672685252}
   - component: {fileID: 7157999008278863421}
+  - component: {fileID: 7207102589321045976}
   m_Layer: 0
   m_Name: IzbaWindowBigPane
   m_TagString: Untagged
@@ -77,3 +78,16 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &7207102589321045976
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8893065691106470625}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 7.987295, y: 6.7580795, z: 0.88231444}
+  m_Center: {x: 0.09658718, y: 3.3790398, z: 0.0005105734}
