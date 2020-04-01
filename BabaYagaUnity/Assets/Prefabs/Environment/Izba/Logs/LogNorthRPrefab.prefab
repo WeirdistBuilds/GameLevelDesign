@@ -58,11 +58,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: LogNorthR
       objectReference: {fileID: 0}
-    - target: {fileID: -8054182092465386242, guid: 41d3886d8f7bcbb478f61f6109c18529,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: d961d0e5ba5c83243b8b3121a45fdae3, type: 2}
     - target: {fileID: -4216859302048453862, guid: 41d3886d8f7bcbb478f61f6109c18529,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -118,6 +113,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8054182092465386242, guid: 41d3886d8f7bcbb478f61f6109c18529,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 12d427f78bb55324e872d26ed9332acd, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41d3886d8f7bcbb478f61f6109c18529, type: 3}
 --- !u!4 &585650455397475500 stripped
