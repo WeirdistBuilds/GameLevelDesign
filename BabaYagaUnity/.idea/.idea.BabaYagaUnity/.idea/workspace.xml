@@ -9,6 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/DamageTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collect.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -18,6 +19,7 @@
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
         <option value="$PROJECT_DIR$/Assets/Collect.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collect.cs" />
+        <option value="$PROJECT_DIR$/Assets/DamageTrigger.cs" />
       </list>
     </option>
   </component>

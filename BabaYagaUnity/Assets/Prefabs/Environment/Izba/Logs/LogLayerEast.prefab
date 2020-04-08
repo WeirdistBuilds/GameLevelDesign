@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4617401468896487175
 Transform:
@@ -45,6 +45,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LogSouthPrefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 2479984662978500771, guid: 4d411d897b38b8c4c96e7fdfd797af30,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 696320668397537282, guid: 4d411d897b38b8c4c96e7fdfd797af30,
         type: 3}
@@ -101,6 +106,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 158832274560353233, guid: 4d411d897b38b8c4c96e7fdfd797af30,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 205440407367167386, guid: 4d411d897b38b8c4c96e7fdfd797af30,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4d411d897b38b8c4c96e7fdfd797af30, type: 3}
 --- !u!4 &1649681349941151894 stripped
@@ -120,6 +135,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LogSouthPrefab (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2479984662978500771, guid: 4d411d897b38b8c4c96e7fdfd797af30,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 696320668397537282, guid: 4d411d897b38b8c4c96e7fdfd797af30,
         type: 3}
@@ -175,6 +195,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 158832274560353233, guid: 4d411d897b38b8c4c96e7fdfd797af30,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 205440407367167386, guid: 4d411d897b38b8c4c96e7fdfd797af30,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4d411d897b38b8c4c96e7fdfd797af30, type: 3}
@@ -271,6 +301,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LogWestCrossbarPrefab
       objectReference: {fileID: 0}
+    - target: {fileID: 7534515033340403799, guid: 32b32193c1c37594cba3981a9e92d653,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 2954633428061223396, guid: 32b32193c1c37594cba3981a9e92d653,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -325,6 +360,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 6290117977192054745, guid: 32b32193c1c37594cba3981a9e92d653,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5083115906759476122, guid: 32b32193c1c37594cba3981a9e92d653,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 32b32193c1c37594cba3981a9e92d653, type: 3}

@@ -15,7 +15,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &5722937599201149128
 Transform:
@@ -57,6 +57,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LogDoorCrossbar
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 2a775ec8a46ad8a4f8abd7cfc08aade4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5080886909626535485, guid: 2a775ec8a46ad8a4f8abd7cfc08aade4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 2a775ec8a46ad8a4f8abd7cfc08aade4,
         type: 3}
