@@ -8,7 +8,9 @@
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="DamageTrigger.cs" t="Include" />
+        <e p="Materials" t="Include">
+          <e p="GodRays.shader" t="Include" />
+        </e>
         <e p="SampleScenes" t="Include">
           <e p="Menu" t="Include">
             <e p="Scripts" t="Include">
@@ -30,6 +32,8 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="Collect.cs" t="Include" />
+          <e p="FallingDamage.cs" t="Include" />
+          <e p="RandomAnim.cs" t="Include" />
         </e>
         <e p="Standard Assets" t="Include">
           <e p="2D" t="Include">
