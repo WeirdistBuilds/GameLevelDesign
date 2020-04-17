@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2898865959579838731}
   - component: {fileID: 6152428931551417149}
   - component: {fileID: 458620522297470916}
-  - component: {fileID: 6596331564850476691}
+  - component: {fileID: 1125474676103186790}
   m_Layer: 0
   m_Name: IzbaDoor
   m_TagString: Untagged
@@ -78,7 +78,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!65 &6596331564850476691
+--- !u!65 &1125474676103186790
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -89,5 +89,5 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 7.0063353, y: 14.2048645, z: 0.71602875}
-  m_Center: {x: -0.05397272, y: 7.0700445, z: -0.0127213895}
+  m_Size: {x: 6.8683653, y: 14.138357, z: 1.0481997}
+  m_Center: {x: 3.4341826, y: 7.0691786, z: -0.17880678}

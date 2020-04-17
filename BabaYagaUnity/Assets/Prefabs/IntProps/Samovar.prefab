@@ -19,7 +19,7 @@ GameObject:
   - component: {fileID: 5177084286111862076}
   - component: {fileID: 5603141985768417425}
   m_Layer: 0
-  m_Name: Samovar2
+  m_Name: Samovar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -46,7 +46,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4010834245306254204}
-  m_Mesh: {fileID: 5367105754133455735, guid: 01f7925b3144afd4fa8746b85cf06446, type: 3}
+  m_Mesh: {fileID: -3185739655235793283, guid: 5856e5e7821cfbc42b60486f819721ce, type: 3}
 --- !u!23 &3428803313097881504
 MeshRenderer:
   m_ObjectHideFlags: 0
