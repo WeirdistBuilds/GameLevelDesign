@@ -12,7 +12,7 @@ Material:
   m_ShaderKeywords: _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
+  m_DoubleSidedGI: 1
   m_CustomRenderQueue: 3000
   stringTagMap:
     RenderType: Transparent
@@ -65,7 +65,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: -0.1
     - _DstBlend: 10
-    - _GlossMapScale: 0.85
+    - _GlossMapScale: 0.979
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Metallic: 0
