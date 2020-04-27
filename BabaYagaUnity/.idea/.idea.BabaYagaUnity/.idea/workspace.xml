@@ -12,6 +12,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collect.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScreenCracker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RandomAnim.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FallingDamage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraShake.cs" root0="FORCE_HIGHLIGHTING" />
@@ -21,7 +22,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Collect.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Collect.cs" />
         <option value="$PROJECT_DIR$/Assets/DamageTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RandomAnim.cs" />
         <option value="$PROJECT_DIR$/Assets/Materials/GodRays.shader" />
@@ -30,6 +30,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/QuitOnEsc.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FallingDamage.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraShake.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScreenCracker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collect.cs" />
       </list>
     </option>
   </component>

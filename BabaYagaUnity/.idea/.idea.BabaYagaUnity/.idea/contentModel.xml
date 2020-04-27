@@ -292,6 +292,7 @@
             <e p="Skybox-Procedural.shader" t="Include" />
           </e>
         </e>
+        <e p="ScreenCracker.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="CameraShake.cs" t="Include" />
           <e p="Collect.cs" t="Include" />

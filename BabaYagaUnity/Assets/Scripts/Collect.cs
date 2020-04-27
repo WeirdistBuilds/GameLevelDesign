@@ -3,12 +3,20 @@
 public class Collect : MonoBehaviour
 {
     public GameObject particleEffect;
-    public Transform intendedParent;
+    public AudioSource collectSound;
+    public GameObject[] lights;
+
     private void OnTriggerEnter(Collider other)
     {
         if (!other.CompareTag("Player")) return;
-        GameObject instance = Instantiate(particleEffect, transform.position, transform.rotation, transform.parent);
-        // instance.transform.parent = gameObject.transform.parent;
-        gameObject.SetActive(false);
+        gameObject.GetComponent<Renderer>().enabled = false;
+        gameObject.GetComponent<BoxCollider>().enabled = false;
+        Instantiate(particleEffect, transform.position, transform.rotation, transform.parent);
+        collectSound.Play();
+        
+        foreach (var light in lights)
+        {
+            light.SetActive(false);
+        }
     }
 }
