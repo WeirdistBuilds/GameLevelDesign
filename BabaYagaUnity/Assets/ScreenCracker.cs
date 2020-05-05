@@ -4,6 +4,7 @@ using UnityEngine.UI;
 public class ScreenCracker : MonoBehaviour
 {
     private Image m_ScreenImage;
+    public Text m_ScreenText;
     public Sprite[] damageLevels;
     public SOInt playerHealth;
     public int maxHealth;
@@ -11,6 +12,7 @@ public class ScreenCracker : MonoBehaviour
     void Start()
     {
         m_ScreenImage = GetComponent<Image>();
+        m_ScreenText.text = null;
         m_ScreenImage.sprite = null;
         m_ScreenImage.enabled = false;
     }
@@ -33,5 +35,6 @@ public class ScreenCracker : MonoBehaviour
     {
         m_ScreenImage.sprite = damageLevels[0];
         m_ScreenImage.enabled = true;
+        m_ScreenText.text = "Press R to Restart, Esc to Exit.";
     }
 }

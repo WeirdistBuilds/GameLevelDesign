@@ -273,6 +273,7 @@
             </e>
           </e>
         </e>
+        <e p="HutController.cs" t="Include" />
         <e p="SampleScenes" t="Include">
           <e p="Menu" t="Include">
             <e p="Scripts" t="Include">
@@ -303,6 +304,7 @@
           <e p="SOBool.cs" t="Include" />
           <e p="SOFloat.cs" t="Include" />
           <e p="SOInt.cs" t="Include" />
+          <e p="StompSound.cs" t="Include" />
         </e>
         <e p="Standard Assets" t="Include">
           <e p="Characters" t="Include">
@@ -381,6 +383,7 @@
             <e p="WaypointProgressTracker.cs" t="Include" />
           </e>
         </e>
+        <e p="StompPicker.cs" t="Include" />
       </e>
       <e p="Aura2_Core.csproj" t="IncludeRecursive" />
       <e p="Aura2_Editor.csproj" t="IncludeRecursive" />
